@@ -1,0 +1,4 @@
+#Sat Oct 17 12:10:57 BST 2020
+base.0=C\:\\Users\\UX490U\\Desktop\\MaterialMe\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Oct 17 12:10:58 BST 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\UX490U\\Desktop\\MaterialMe\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

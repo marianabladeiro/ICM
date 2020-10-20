@@ -1,0 +1,4 @@
+#Fri Oct 16 15:45:48 BST 2020
+base.0=C\:\\Users\\UX490U\\Desktop\\SongDetail_start\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
